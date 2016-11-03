@@ -1,0 +1,118 @@
+.wrapper {
+    width: 1050px;
+    margin: 0 auto;
+}
+
+.row {
+    position: absolute;
+    width: 1000px;
+    height: 900px;
+    background-color: aquamarine;
+    margin: 20px auto 0;
+}
+
+.desk {
+    position: relative;
+    width: 800px;
+    margin: 50px auto 0;
+}
+
+.white-first , .black-first {
+    position: absolute;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.kv {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.kv-2 {
+    margin-left: 100px;
+}
+
+.kv-3 {
+    margin-left: 200px;
+}
+
+.kv-4 {
+    margin-left: 300px;
+}
+
+.kv-5 {
+    margin-left: 400px;
+}
+
+.kv-6 {
+    margin-left: 500px;
+}
+
+.kv-7 {
+    margin-left: 600px;
+}
+
+.kv-8 {
+    margin-left: 700px;
+}
+
+.br {
+    width: 70px;
+    height: 70px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.wr {
+    width: 70px;
+    height: 70px;
+    background-color: dimgray;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.line-2 {
+    margin-top: 100px;
+}
+
+.line-3 {
+    margin-top: 200px;
+}
+
+.line-4 {
+    margin-top: 300px;
+}
+
+.line-5 {
+    margin-top: 400px;
+}
+
+.line-6 {
+    margin-top: 500px;
+}
+
+.line-7 {
+    margin-top: 600px;
+}
+
+.line-8 {
+    margin-top: 700px;
+}
